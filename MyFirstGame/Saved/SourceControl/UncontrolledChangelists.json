@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/UI/MainMenu.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/HJ/XYZRXW7S0ZO4KKJZUJRHYE.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/mainmenumap.umap",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/UI/Startgamebanner.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/UI/Optionmenu_WB.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/UI/Menugamemode.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/UI/startgamebanner01.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/ModSci_Engineer/Maps/Example_Dynamic.umap",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/UI/Health_WP.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Picking_Up_System/BP_Iteam.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Picking_Up_System/BPI_Items.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TQ/Q2N1VX7CCZFQSID129P09Z.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Player/BP_Player.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Enemies/BP_Enemy_Base.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Enemies/AI/BT_Enemy_Base.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VE/QWR1W4VEDJJ1IV6AS8XC30.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/H9/NV2608WO1TFZM9BHTVFX0T.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/O8/DWGE4JWCXFE1FRMYAZLSTK.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Animations/1HM_AerialSwing01_Forward.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Animations/1HM_AerialSwing01_Forward1.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Animations/1HM_AerialSwing01_Forward_Montage.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Enemies/AI/AIC_Enemy_Base.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Enemies/AI/BB_Enemy_Base.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Animations/H2H_PunchCombo02.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Animations/H2H_PunchCombo02_Montage.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/UI/WB_Crosshair.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Player/BP_Enemy_Base.uasset",
+				"C:/Users/pruth/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Picking_Up_System/BP_Item.uasset"
+			]
+		}
+	]
+}
